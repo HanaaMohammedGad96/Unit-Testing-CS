@@ -1,0 +1,15 @@
+D:\For Training\Unit Testing\Resturant\Resturant\bin\Debug\net6.0\Resturant.exe
+D:\For Training\Unit Testing\Resturant\Resturant\bin\Debug\net6.0\Resturant.deps.json
+D:\For Training\Unit Testing\Resturant\Resturant\bin\Debug\net6.0\Resturant.runtimeconfig.json
+D:\For Training\Unit Testing\Resturant\Resturant\bin\Debug\net6.0\Resturant.dll
+D:\For Training\Unit Testing\Resturant\Resturant\bin\Debug\net6.0\Resturant.pdb
+D:\For Training\Unit Testing\Resturant\Resturant\obj\Debug\net6.0\Resturant.csproj.AssemblyReference.cache
+D:\For Training\Unit Testing\Resturant\Resturant\obj\Debug\net6.0\Resturant.GeneratedMSBuildEditorConfig.editorconfig
+D:\For Training\Unit Testing\Resturant\Resturant\obj\Debug\net6.0\Resturant.AssemblyInfoInputs.cache
+D:\For Training\Unit Testing\Resturant\Resturant\obj\Debug\net6.0\Resturant.AssemblyInfo.cs
+D:\For Training\Unit Testing\Resturant\Resturant\obj\Debug\net6.0\Resturant.csproj.CoreCompileInputs.cache
+D:\For Training\Unit Testing\Resturant\Resturant\obj\Debug\net6.0\Resturant.dll
+D:\For Training\Unit Testing\Resturant\Resturant\obj\Debug\net6.0\refint\Resturant.dll
+D:\For Training\Unit Testing\Resturant\Resturant\obj\Debug\net6.0\Resturant.pdb
+D:\For Training\Unit Testing\Resturant\Resturant\obj\Debug\net6.0\Resturant.genruntimeconfig.cache
+D:\For Training\Unit Testing\Resturant\Resturant\obj\Debug\net6.0\ref\Resturant.dll
